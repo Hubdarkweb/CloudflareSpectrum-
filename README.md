@@ -1,4 +1,4 @@
-Got it — below is a complete **user manual** that sets up on a single Ubuntu 22.04+ VPS:
+Below is a complete **user manual** that sets up on a single Ubuntu 22.04+ VPS:
 
 * WireGuard (UDP)
 * OpenVPN (TCP)
